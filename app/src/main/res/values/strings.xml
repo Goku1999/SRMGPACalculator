@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SRM GPA Calculator</string>
+    <string-array name="grades">
+        <item>--Select--</item>
+        <item>O</item>
+        <item>A+</item>
+        <item>A</item>
+        <item>B+</item>
+        <item>B</item>
+        <item>C</item>
+        <item>P</item>
+        <item>F</item>
+        <item>Ab</item>
+        <item>I</item>
+    </string-array>
+</resources>
